@@ -1,0 +1,12 @@
+* shadow-cljs-reagent-template
+Barebones shadow-cljs + reagent setup
+
+** Preparation
+Before building and running the template, run:
+
+#+begin_src bash
+npm install
+#+end_src
+
+** Running
+To start hacking, run =M-x cider-connect-cljs= from Emacs.
